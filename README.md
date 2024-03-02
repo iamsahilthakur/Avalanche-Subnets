@@ -1,6 +1,6 @@
 # Avalanche-Subnets
 
-## steps to be followed
+## Steps to be followed
 
 1- Deploy your EVM subnet using the Avalanche CLI
 
