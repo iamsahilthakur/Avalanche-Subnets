@@ -1,5 +1,7 @@
-# Project Name- Avalanche-Subnets
-# Process or steps to be followed
+# Avalanche-Subnets
+
+## steps to be followed
+
 1- Deploy your EVM subnet using the Avalanche CLI
 
 2- Add your Subnet to Metamask and select network in Metamask
